@@ -1,3 +1,6 @@
+NM documnt =>https://drive.google.com/drive/folders/1lnrDPohdiAW78XIlCy1Q2bNvS2Qgw61-?usp=drive_link
+NM demo video=>https://drive.google.com/file/d/1lMBAjLVkouyR9jWK3-x0pupxOGTR1DNR/view?usp=drive_link
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
